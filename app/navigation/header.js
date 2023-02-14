@@ -30,7 +30,7 @@ export default function Header() {
             <div>
               <div className="flex items-center">
                 <div className="flex-shrink-0">
-                  <button className="border border-gray-50 text-gray-50 px-1 md:px-3 py-2 rounded-md text-xs md:text-md">Join Discord</button>
+                  <a href="https://github.com/swellstores/swell-sdk" className="border border-gray-50 text-gray-50 px-1 md:px-3 py-2 rounded-md text-xs md:text-md">Github</a>
                 </div>
               </div>
             </div>

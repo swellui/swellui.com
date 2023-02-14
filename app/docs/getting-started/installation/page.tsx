@@ -8,7 +8,7 @@ export default function Home() {
   return (
     <div>
     <div className="bg-lime-300 p-4 mb-5 rounded-md">
-      <p className="text-xl text-black">We are currently in beta. You can ask questions or contribute on <a href="https://discord.gg/8qZ3Y4Z" className="underline">Github</a>.</p>
+      <p className="text-xl text-black">We are currently in beta. You can ask questions or contribute on <a href="https://github.com/swellstores/swell-sdk" className="underline">Github</a>.</p>
     </div>
     <h1 className="text-4xl font-bold text-gray-50">Installation</h1>
     <p className="text-xl text-gray-50">Quick guide on how to get setup using the Swell UI components and the new swell-sdk.</p>
