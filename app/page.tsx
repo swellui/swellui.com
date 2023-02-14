@@ -12,10 +12,10 @@ export default function Home() {
      <div className="relative py-10 md:py-20 bg-[#12011F] h-full">
           <div className="max-w-7xl mx-auto grid grid-cols-1 md:grid-cols-3 gap-5 items-center">
             <div className="relative col-span-1 md:col-span-2 px-5 md:px-0">
-              <h1 className="text-3xl md:text-5xl font-bold uppercase text-black dark:text-gray-100">
+              <h1 className="text-3xl md:text-5xl font-bold uppercase text-gray-50 dark:text-gray-100">
                 Build Better E-Commerce Websites, Faster.
               </h1>
-              <p className="mt-5 md:mt-10 text-base md:text-xl font-light text-gray-200 w-full max-w-2xl">Swell UI is a set of components made using Tailwind CSS specifically for e-commerce websites. Copy and paste our components directly into your website.</p>
+              <p className="mt-5 md:mt-10 text-base md:text-xl font-light text-gray-50 w-full max-w-2xl">Swell UI is a set of components made using Tailwind CSS specifically for e-commerce websites. Copy and paste our components directly into your website.</p>
 
               <div className="mt-10 flex flex-col md:flex-row items-center md:space-x-3">
                 <a href="https://github.com/swellstores/swell-sdk" className="bg-[#D6FB6F] font-bold rounded-md px-5 py-3 text-[#57349B] w-full md:w-[200px] text-center" rel="noreferrer">
