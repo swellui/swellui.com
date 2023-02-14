@@ -2,7 +2,7 @@
 
 import Link from 'next/link'
 const pages =[
-  {name: 'Components', href: '/components'},
+  {name: 'Components', href: '/docs/components'},
   {name: 'Docs', href: '/docs'},
 ]
 
